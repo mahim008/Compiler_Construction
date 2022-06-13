@@ -4,7 +4,7 @@ void check_vowel(char s)
     if(s=='a'|'A'|'e'|'E'|'i'|'I'|'o'|'O'|'u'|'U')
         printf("%c is vowel.",s);
     else
-        printf("%c is consonent.",s);
+        printf("%c is consonant.",s);
 }
 
 main()
