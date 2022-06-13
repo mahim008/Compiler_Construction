@@ -28,7 +28,7 @@ def check_number(n):
         print("Not floating number.\n")
 
 while(True):
-    print("Menu\n1. Card\n2. Number\n3. Email\n4. Exit")
+    print("Menu:\n\t1. Card\n\t2. Number\n\t3. Email\n\t4. Exit")
     command = input(">> ")
 
     if command=='1':
